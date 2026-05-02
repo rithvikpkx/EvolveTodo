@@ -5,4 +5,13 @@ Instead of jumping from project to project, I'm using one concrete project as a 
 
 ## Project Status
 
-Phase 0: Initial setup. Project descriptions and git discipline. --> COMPLETE
+**Phase 0:** Initial setup. Project descriptions and git discipline. [_COMPLETE_]
+
+## Learning Log
+
+### Phase 0
+
+**Focus:**
+  - Structuring a git repo
+  - Commitment to clean commit messages and discipline
+  - Commitment to scalable and maintainable codebase
