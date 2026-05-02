@@ -3,9 +3,15 @@ A progressively evolving full-stack todo application built to document my journe
 
 Instead of jumping from project to project, I'm using one concrete project as a learning sandbox to build my skills over time.
 
-## Project Status
+## Current Status
+
+**Working on:** (Phase 1) - Building a basic static HTML/CSS Todo app to soldify the fundamentals.
+
+## Project Roadmap
 
 **Phase 0:** Initial setup. Project descriptions and git discipline. [_COMPLETE_]
+
+**Phase 1:** Basic static HTML/CSS Todo app. [**IN-PROGRESS**]
 
 ## Learning Log
 
